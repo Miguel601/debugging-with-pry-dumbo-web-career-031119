@@ -1,4 +1,4 @@
-ruby# Debugging with Pry
+# Debugging with Pry
 
 ## Overview
 
